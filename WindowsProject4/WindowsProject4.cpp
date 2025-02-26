@@ -1,5 +1,3 @@
-// dz-19.02.cpp : Defines the entry point for the application.
-//
 
 #include "framework.h"
 #include "WindowsProject4.h"
