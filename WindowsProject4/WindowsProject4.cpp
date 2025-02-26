@@ -2,7 +2,7 @@
 //
 
 #include "framework.h"
-#include "dz-19.02.h"
+#include "WindowsProject4.h"
 #include "resource.h"
 
 #define MAX_LOADSTRING 100
